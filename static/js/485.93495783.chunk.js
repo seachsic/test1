@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktest1=self.webpackChunktest1||[]).push([[485],{485:function(n,t,e){e.r(t),e.d(t,{default:function(){return l}});var i,s=e(168),a=e(444).ZP.div(i||(i=(0,s.Z)(["\n  font-family: 'Bradley Hand', cursive;\n  font-style: italic;\n  font-size: 60px;\n  font-weight: 500;\n  display: flex;\n  justify-content: center;\n  margin-top: 150px;\n  text-align: center;\n"]))),f=e(184),l=function(){return(0,f.jsx)(a,{children:"This is the homepage. Please follow the tweets and stay tuned."})}}}]);
+//# sourceMappingURL=485.93495783.chunk.js.map
